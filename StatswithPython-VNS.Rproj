@@ -1,0 +1,16 @@
+Version: 1.0
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+BuildType: Website
+WebsitePath: /Users/vivvns/Library/CloudStorage/GoogleDrive-vivv@umich.edu/My Drive 2/Colab Notebooks/SelfLead/bookdown-demo-main 2/StatswithPython-VNS
